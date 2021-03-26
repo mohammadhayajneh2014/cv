@@ -3,6 +3,10 @@ today's summary
 
 *this article prepard py mohammad hayajneh*
 
+*My name is Mohammad I am 25 years old. I am from Jordan (irbid). I’ve graduated from Yarmouk university, faculty of Engineering, electrical department, year 2019*
+
+https://github.com/mohammadhayajneh2014
+
 [MOHAMMAD GITHUB](https://github.com/mohammadhayajneh2014)
 
 [MOHAMMAD SLACK](https://ltuc-asac.slack.com/archives/D01SAFNES9F)
